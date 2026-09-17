@@ -16,6 +16,7 @@
 
 ## 🛠️ 本地运行
 pip install pyautogen==0.2.35 -i https://pypi.tuna.tsinghua.edu.cn/simple
+source venv/bin/activate
 export DEEPSEEK_API_KEY="sk-xxx"
 export DASHSCOPE_API_KEY="sk-xxx"
 export ZHIPU_API_KEY="xxx"
