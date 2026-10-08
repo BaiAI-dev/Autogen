@@ -15,7 +15,8 @@
 3. **真实业务验证**：模拟了高温+膝盖不适条件下的耳机使用决策流程。
 
 ## 🛠️ 本地运行
-pip install pyautogen==0.2.35 -i https://pypi.tuna.tsinghua.edu.cn/simple
+//pip install pyautogen==0.2.35 -i https://pypi.tuna.tsinghua.edu.cn/simple   no
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 source venv/bin/activate
 export DEEPSEEK_API_KEY="sk-xxx"
 export DASHSCOPE_API_KEY="sk-xxx"
